@@ -1,0 +1,6 @@
+# mac hidden files
+vscode
+.DS_Store
+
+# virtual environment directory
+vid2gif_venv
